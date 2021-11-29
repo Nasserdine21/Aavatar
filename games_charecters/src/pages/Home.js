@@ -22,7 +22,12 @@ function Home(){
             </section>
             
             <section className="avatars">
+
+                <h1>OUr characters</h1>
+                <p>Voluptate ipsum voluptate non duis ipsum.</p>
+                <div className="weapon-bar"></div>
             
+                <div className="display-avatars">
                 {
                     persos.map((item) => {
                         const {images, name, descrp} = item;
@@ -37,6 +42,7 @@ function Home(){
                         );
                     })
                 }
+                </div>
                 
             </section>
 

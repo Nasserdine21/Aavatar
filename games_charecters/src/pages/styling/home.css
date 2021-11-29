@@ -233,7 +233,7 @@
   .gltch{
       padding-top: 70px;
   }
-  .avatars{
+  .display-avatars{
       width: 100%;
       margin-top: 80px;
       margin-bottom: 80px;
@@ -275,6 +275,24 @@
   .read-more{
       margin-top: 10px;
       cursor: pointer;
+  }
+  .avatars{
+    width: 100%;
+    min-height: 600px;
+  }
+  .avatars h1, p{
+    text-align: center;
+  }
+  .avatars h1{
+    text-transform: uppercase;
+    font-size: 25px;
+    padding-top: 35px;
+  }
+  .avatars p{
+    margin-top: 20px;
+
+    color: rgb(165, 163, 163);
+    font-size: 12px;
   }
   .weapons{
     width: 100%;

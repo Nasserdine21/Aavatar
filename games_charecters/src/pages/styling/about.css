@@ -1,0 +1,45 @@
+.about{
+    display: flex;
+    width: 100%;
+    min-height: 600px;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.about-us{
+    width: 45%;
+}
+.about-us h1{
+    text-transform: uppercase;
+    font-size: 25px;
+}
+.about-us p{
+    
+    font-size: 15px;
+    color: rgb(133, 133, 133);
+    text-align: left;
+    margin-top: 30px;
+    line-height: 1.6;
+}
+.about-us button{
+    margin-top: 30px;
+    background: none;
+    outline: none;
+    border: none;
+    background-image: linear-gradient(to right, #7231EC, #953DF5, #B948FF);
+    width: 250px;
+    font-size: 20px;
+    height: 50px;
+    text-transform: uppercase;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+}
+.about-image{
+   width: 45%;
+   
+}
+.about-image img{
+    width: 100%;
+}
