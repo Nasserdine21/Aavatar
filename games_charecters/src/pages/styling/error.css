@@ -1,0 +1,50 @@
+.error{
+    width: 100%;
+    background-image: url('../../assets/persos/error_back.png');
+    min-height: 700px;
+    padding-bottom: 80px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.error h1{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+}
+.astro-man{
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+.error button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    background: none;
+    outline: none;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    border: 1.8px solid white;
+    width: 280px;
+    font-weight: bold;
+    border-radius: 1px;
+    height: 50px;
+    cursor: pointer;
+}
+.error button a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.error button:hover{
+    color: black;
+    background-color: white;
+    transition: all .3s ease-in-out;
+}
+.error button a:hover{
+    color: black;
+}
