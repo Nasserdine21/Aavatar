@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51af14b4.chunk.css",
+    "main.js": "/static/js/main.b28a4c61.chunk.js",
+    "main.js.map": "/static/js/main.b28a4c61.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.473331d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.473331d2.js.map",
+    "static/js/2.eb7ddf7d.chunk.js": "/static/js/2.eb7ddf7d.chunk.js",
+    "static/js/2.eb7ddf7d.chunk.js.map": "/static/js/2.eb7ddf7d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.51af14b4.chunk.css.map": "/static/css/main.51af14b4.chunk.css.map",
+    "static/js/2.eb7ddf7d.chunk.js.LICENSE.txt": "/static/js/2.eb7ddf7d.chunk.js.LICENSE.txt",
+    "static/media/about.eb7efd4b.png": "/static/media/about.eb7efd4b.png",
+    "static/media/astro_man.42dafeaf.png": "/static/media/astro_man.42dafeaf.png",
+    "static/media/error.css": "/static/media/error_back.26540516.png",
+    "static/media/faq.c7b88193.jpg": "/static/media/faq.c7b88193.jpg",
+    "static/media/footerlogo.100da016.png": "/static/media/footerlogo.100da016.png",
+    "static/media/logo.1d265d82.png": "/static/media/logo.1d265d82.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.473331d2.js",
+    "static/js/2.eb7ddf7d.chunk.js",
+    "static/css/main.51af14b4.chunk.css",
+    "static/js/main.b28a4c61.chunk.js"
+  ]
+}
