@@ -1,0 +1,30 @@
+.getData .display-avatars{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 90px 40px;
+
+}
+.getData img{
+    width: 200px;
+}
+.color-wp{
+    font-size: 12px;
+}
+.getData .avatar-bar{
+    margin-bottom: 20px;
+}
+.we-show, .justDesc{
+    text-align: center;
+}
+.we-show{
+    text-transform: uppercase;
+    font-size: 25px;
+    padding-top: 35px;
+}
+.justDesc{
+    margin-top: 20px;
+
+    color: rgb(165, 163, 163);
+    font-size: 12px;
+}

@@ -4,6 +4,7 @@ import NavBar from './components/NavBar';
 import Footer from './components/Footer';
 import SideBar from './components/SideBar';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import Display from './pages/Display';
 import{
   Home,
   About,
@@ -29,6 +30,10 @@ function App() {
             
             <Route path='/personne'>
               <Personne />
+            </Route>
+
+            <Route path='/mychar'>
+              <Display />
             </Route>
 
             <Route path='/faq'>
